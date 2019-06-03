@@ -1,10 +1,22 @@
-# subjects_material
+# MUA Summer Training
 
-Material developed to teach different competitive programming topics
+Material developed to teach and practice different competitive programming topics
 
 
 ## Topics
 
   - Data Structures
-    - Graphs
+    - [Graphs][graphs]
+  - Strings 
+  - Dynamic Programming
+  - Number Theory
+  - Geometry
    
+## Additional material
+
+  - Testing
+  - Programming languages
+  
+  
+  
+[graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
