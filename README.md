@@ -8,6 +8,7 @@ Material developed to teach and practice different competitive programming topic
   - Data Structures
     - [Graphs][graphs]
   - Strings 
+    - [String structures][suffix]
   - Dynamic Programming
   - Number Theory
   - Geometry
@@ -20,3 +21,4 @@ Material developed to teach and practice different competitive programming topic
   
   
 [graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
+[suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
