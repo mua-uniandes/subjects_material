@@ -7,7 +7,8 @@ Material developed to teach and practice different competitive programming topic
 
   - Data Structures
     - [Graphs][graphs]
-  - Strings 
+  - Strings
+    - String algorithms
     - [String structures][suffix]
   - Dynamic Programming
   - Number Theory
@@ -17,6 +18,10 @@ Material developed to teach and practice different competitive programming topic
 
   - Testing
   - Programming languages
+    - C++
+    - Java
+    - Kotlin
+    - Python
   
   
   
