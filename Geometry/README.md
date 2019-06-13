@@ -11,4 +11,6 @@
   
   
   
-  [cn]: http://geomalgorithms.com/a03-_inclusion.html
+[cn]: http://geomalgorithms.com/a03-_inclusion.html
+[muas3]: https://vjudge.net/contest/306419
+[muas3l]: 
