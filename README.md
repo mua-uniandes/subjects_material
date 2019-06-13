@@ -12,7 +12,7 @@ Material developed to teach and practice different competitive programming topic
     - [String structures][suffix]
   - Dynamic Programming
   - Number Theory
-  - Geometry
+  - [Geometry][geometry]
    
 ## Additional material
 
@@ -27,3 +27,4 @@ Material developed to teach and practice different competitive programming topic
   
 [graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
+[geometry]: https://github.com/mua-uniandes/subjects_material/tree/master/Geometry
