@@ -1,4 +1,4 @@
-# MUA Summer Training
+# MUA Training Material
 
 Material developed to teach and practice different competitive programming topics
 
