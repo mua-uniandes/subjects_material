@@ -8,7 +8,7 @@
     - Definition
     - 
   - Max-flow/Min-cut
-  - 2-SAT[2sat]
+  - [2-SAT][2sat]
   
    
  
