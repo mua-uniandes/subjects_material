@@ -11,6 +11,7 @@ Material developed to teach and practice different competitive programming topic
     - String algorithms
     - [String structures][suffix]
   - Dynamic Programming
+    - [Bitmasks][bitmasks]
   - Number Theory
   - [Geometry][geometry]
    
@@ -28,3 +29,4 @@ Material developed to teach and practice different competitive programming topic
 [graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
 [geometry]: https://github.com/mua-uniandes/subjects_material/tree/master/Geometry
+[bitmasks]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
