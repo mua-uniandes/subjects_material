@@ -11,10 +11,11 @@ Material developed to teach and practice different competitive programming topic
     - String algorithms
     - [String structures][suffix]
   - Dynamic Programming
-    - [Bitmasks][bitmasks]
+    - General
+    - [Optimizations][optimizations]
   - Number Theory
   - [Geometry][geometry]
-   
+
 ## Additional material
 
   - Testing
@@ -23,10 +24,10 @@ Material developed to teach and practice different competitive programming topic
     - Java
     - Kotlin
     - Python
-  
-  
-  
+
+
+
 [graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
 [geometry]: https://github.com/mua-uniandes/subjects_material/tree/master/Geometry
-[bitmasks]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
+[optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
