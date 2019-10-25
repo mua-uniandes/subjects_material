@@ -6,7 +6,7 @@
 
   - Basic definitions
   - DP optimizations
-  - [Bitmask and rolling bitmask][bitmask]
+    - [Bitmask and rolling bitmask][bitmask]
 
 
 
