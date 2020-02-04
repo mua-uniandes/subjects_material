@@ -5,9 +5,9 @@
 ## Topics
 
   - [Graph basics][basics]
-    - Definition (adjacencyLists: [c++][al-c], [kotlin][al-kotlin], [python][al-python])
-    - Breath-first search (BFS)([c++][bfs-c])
-    - Depth-first search (DSF)([c++][dfs-c])
+    - Definition (adjacencyLists: [al-c++][al-c], [al-kotlin][al-kotlin], [al-python][al-python])
+    - Breath-first search (BFS)([bfs-c++][bfs-c])
+    - Depth-first search (DSF)([dfs-c++][dfs-c])
   - Max-flow/Min-cut
   - [2-SAT][2sat]
   
