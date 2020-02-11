@@ -7,6 +7,7 @@ Material developed to teach and practice different competitive programming topic
 
   - Data Structures
     - [Graphs][graphs]
+    - Priority queues
   - Strings
     - String algorithms
     - [String structures][suffix]
