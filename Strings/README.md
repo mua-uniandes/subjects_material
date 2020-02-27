@@ -28,4 +28,4 @@
 [kmp_cpp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/C%2B%2B/kmp.cpp
 [sufix_cpp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/C%2B%2B/SuffixArray.cpp
 [z_cpp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/C%2B%2B/z.cpp
-[read_prefix_doubling][https://pdfs.semanticscholar.org/f219/a32d131bf12e05b4118ef93553bf0b9ca53e.pdf]
+[read_prefix_doubling]: https://pdfs.semanticscholar.org/f219/a32d131bf12e05b4118ef93553bf0b9ca53e.pdf
