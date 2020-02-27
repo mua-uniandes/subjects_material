@@ -10,6 +10,7 @@ Material developed to teach and practice different competitive programming topic
     - Priority queues
   - Strings
     - String algorithms
+      - [KMP and Z][kmp]
     - [String structures][suffix]
   - Dynamic Programming
     - General
@@ -32,3 +33,4 @@ Material developed to teach and practice different competitive programming topic
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
 [geometry]: https://github.com/mua-uniandes/subjects_material/tree/master/Geometry
 [optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
+[kmp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/slides/MUA_strings_kmp_z.pdf
