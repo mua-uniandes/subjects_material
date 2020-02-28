@@ -23,7 +23,7 @@
 
 [muas2]: https://vjudge.net/contest/305652
 [muas2l]: https://vjudge.net/contest/305818
-[kmp_thoery]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/slides/MUA_strings_kmp_z.pdf
+[kmp_theory]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/slides/MUA_strings_kmp_z.pdf
 [sufix_theory]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/slides/MUA_string_1.pdf
 [kmp_cpp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/C%2B%2B/kmp.cpp
 [sufix_cpp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/C%2B%2B/SuffixArray.cpp
