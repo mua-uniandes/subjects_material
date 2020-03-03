@@ -29,6 +29,7 @@ Material developed to teach and practice different competitive programming topic
 
 ## Complexity
 |   |   |
+|   |   |
 | O(1) | :sunglasses: |
 | O(log n) | :grin: |
 | O(n) | :relieved: |
