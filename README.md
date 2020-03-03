@@ -27,6 +27,15 @@ Material developed to teach and practice different competitive programming topic
     - Kotlin
     - Python
 
+## Complexity
+|---|---|
+| O(1) | :sunglasses: |
+| O(log n) | :grin: |
+| O(n) | :relieved: |
+| O(nlog n) | :worried: |
+| O(n<sup>2</sup>) | :unamused: |
+| O(2<sup>n</sup>) | :scream: |
+| O(n!) | :fu: |
 
 
 [graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
