@@ -32,7 +32,7 @@ Material developed to teach and practice different competitive programming topic
 |---|---|
 | O(log n) | :grin: |
 | O(n) | :worried: |
-| O(nlog n) | :unamused: |
+| O(nlog n) | :cry: |
 | O(n<sup>2</sup>) | :rage: |
 | O(2<sup>n</sup>) | :scream: |
 | O(n!) | :fu: |
