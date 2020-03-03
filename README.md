@@ -31,9 +31,9 @@ Material developed to teach and practice different competitive programming topic
 | O(1) | :sunglasses: |
 |---|---|
 | O(log n) | :grin: |
-| O(n) | :relieved: |
-| O(nlog n) | :worried: |
-| O(n<sup>2</sup>) | :unamused: |
+| O(n) | :worried: |
+| O(nlog n) | :unamused: |
+| O(n<sup>2</sup>) | :rage: |
 | O(2<sup>n</sup>) | :scream: |
 | O(n!) | :fu: |
 
