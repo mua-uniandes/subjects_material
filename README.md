@@ -28,11 +28,12 @@ Material developed to teach and practice different competitive programming topic
     - Python
 
 ## Complexity
-| O(1) | :sunglasses: |
+| O(1) | :smirk: |
 |---|---|
-| O(log n) | :grin: |
-| O(n) | :worried: |
-| O(nlog n) | :cry: |
+| O(log n) | :satisfied: |
+| O(n) | :grin: |
+| O(nlog n) | :relieved: |
+| O(n<sup>2</sup>) | :worried: |
 | O(n<sup>2</sup>) | :rage: |
 | O(2<sup>n</sup>) | :scream: |
 | O(n!) | :fu: |
