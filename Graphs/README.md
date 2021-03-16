@@ -16,7 +16,7 @@
  
   
 [basics]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/slides/slides.pdf  
-[dsu]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/slides/slides.pdf  
+[dsu]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/slides/MUA_graphs_DSU.pdf  
 [al-c]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/C%2B%2B/AdjacencyList.cpp
 [al-kotlin]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/Kotlin/AdjacencyLists.kt
 [al-python]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/Python/adjacency_list.py

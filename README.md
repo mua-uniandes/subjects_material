@@ -15,7 +15,7 @@ Material developed to teach and practice different competitive programming topic
   - Dynamic Programming
     - General
     - [Optimizations][optimizations]
-  - Number Theory
+  - [Number Theory][numtheory]
   - [Geometry][geometry]
 
 ## Additional material
@@ -38,9 +38,9 @@ Material developed to teach and practice different competitive programming topic
 | O(2<sup>n</sup>) | :scream: |
 | O(n!) | :fu: |
 
-
-[graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
-[suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
 [geometry]: https://github.com/mua-uniandes/subjects_material/tree/master/Geometry
-[optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
+[graphs]: https://github.com/mua-uniandes/subjects_material/tree/master/Graphs
 [kmp]: https://github.com/mua-uniandes/subjects_material/blob/master/Strings/slides/MUA_strings_kmp_z.pdf
+[numtheory]: https://github.com/mua-uniandes/subjects_material/tree/master/NumberTheory
+[optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
+[suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
