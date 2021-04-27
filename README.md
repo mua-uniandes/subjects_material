@@ -8,6 +8,7 @@ Material developed to teach and practice different competitive programming topic
   - Data Structures
     - [Graphs][graphs]
     - Priority queues
+    - [Segment trees][segtree]
   - Strings
     - String algorithms
       - [KMP and Z][kmp]
@@ -44,3 +45,4 @@ Material developed to teach and practice different competitive programming topic
 [numtheory]: https://github.com/mua-uniandes/subjects_material/tree/master/NumberTheory
 [optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
+[segtree]: 
