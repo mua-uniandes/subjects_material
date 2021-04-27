@@ -45,4 +45,4 @@ Material developed to teach and practice different competitive programming topic
 [numtheory]: https://github.com/mua-uniandes/subjects_material/tree/master/NumberTheory
 [optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
-[segtree]: 
+[segtree]: https://github.com/mua-uniandes/subjects_material/tree/master/Datastructures/segment_tree
