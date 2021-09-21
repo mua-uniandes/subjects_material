@@ -8,6 +8,10 @@
     - Definition (adjacencyLists: [al-c++][al-c], [al-kotlin][al-kotlin], [al-python][al-python])
     - Breath-first search (BFS)([bfs-c++][bfs-c])
     - Depth-first search (DSF)([dfs-c++][dfs-c])
+  - Shortest-paths
+    - Dijkstra () 
+    - Bellman-ford () Find shortest paths with engative weights
+    - Floyd-Warshall () Find shortest paths between all nodes
   - [Disjoint Set Union][dsu]([dsu-c++][dsu-c])
   - Max-flow/Min-cut
   - [2-SAT][2sat]
