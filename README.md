@@ -18,6 +18,7 @@ Material developed to teach and practice different competitive programming topic
     - [Optimizations][optimizations]
   - [Number Theory][numtheory]
   - [Geometry][geometry]
+  - [Algorithms][algos]
 
 ## Additional material
 
@@ -46,3 +47,4 @@ Material developed to teach and practice different competitive programming topic
 [optimizations]: https://github.com/mua-uniandes/subjects_material/tree/master/dp
 [suffix]: https://github.com/mua-uniandes/subjects_material/tree/master/Strings
 [segtree]: https://github.com/mua-uniandes/subjects_material/tree/master/Datastructures/segment_tree
+[algos]: https://github.com/mua-uniandes/subjects_material/tree/master/Algorithms
