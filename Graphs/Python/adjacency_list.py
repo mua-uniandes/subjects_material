@@ -1,15 +1,13 @@
 from sys import stdin, stdout
 
-nodes = []
-
 def main():    
-    stdin.readline()
-    edges = int(stdin.readline())
-    for i in range(0, edges):
+    vertex, edges = stdin.readline().split()
+    nodes = [[] for _ in range(int(vertex))]
+    for _ in range(int(edges)):
         ends = stdin.readline().split()
         e1 = int(ends[0])
         e2 = int(ends[1])
-        addEdge(e1, e2)
+        nodes[e1].append(e2)
+        nodes[e2].append(e1)
 
-def addEdge(w,v):
-    nodes[u].
+main()
