@@ -5,7 +5,7 @@
 ## Topics
 
   - [Graph basics][basics]
-    - Definition (adjacencyLists: [al-c++][al-c], [al-kotlin][al-kotlin], [al-python][al-python])
+    - [Definition][def] (adjacency lists: [al-c++][al-c], [al-kotlin][al-kotlin], [al-python][al-python])
     - Breath-first search (BFS)([bfs-c++][bfs-c])
     - Depth-first search (DSF)([dfs-c++][dfs-c])
   - Shortest-paths
@@ -18,7 +18,7 @@
   
    
  
-  
+[def]: https://youtu.be/50sjEnKj8H4  
 [basics]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/slides/slides.pdf  
 [dsu]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/slides/MUA_graphs_DSU.pdf  
 [al-c]: https://github.com/mua-uniandes/subjects_material/blob/master/Graphs/C%2B%2B/AdjacencyList.cpp
