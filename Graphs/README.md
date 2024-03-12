@@ -6,8 +6,8 @@
 
   - [Graph basics][basics]
     - [Definition](https://youtu.be/50sjEnKj8H4) (adjacency lists: [al-c++][al-c], [al-kotlin][al-kotlin], [al-python][al-python])
-    - Breath-first search (BFS)([bfs-c++][bfs-c])
-    - Depth-first search (DSF)([dfs-c++][dfs-c])
+    - Breath-first search ([BFS](https://youtu.be/qiZRzmP0LzU?si=n2dOEwRvmH_E7B6w&t=458))([bfs-c++][bfs-c])
+    - Depth-first search ([DFS](https://youtu.be/qiZRzmP0LzU?si=TdW9k_XBI9HV7H3t))([dfs-c++][dfs-c])
   - Shortest-paths
     - Dijkstra () 
     - Bellman-ford () Find shortest paths with engative weights
